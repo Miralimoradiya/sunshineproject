@@ -2,6 +2,13 @@
 
 Sunshine is a front-end project built using React.js. It is designed to offer a modern, interactive experience using popular libraries and tools. Currently, **the project is not fully responsive**. it's based on tables and the project is look like construction project in admin side.
 
+## Live Demo
+
+The website is live on Netlify. Check it out here:
+
+[Live Demo](https://sunshine-miralimoradiya.netlify.app/)
+
+
 ## Project Structure
 
 - **React.js** is used as the core framework for building the user interface.
